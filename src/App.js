@@ -43,7 +43,7 @@ function App() {
               Remover
             </button>
           </li>
-        ))};
+        ))}
       </ul>
 
       <button onClick={handleAddRepository}>Adicionar</button>
